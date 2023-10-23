@@ -1,0 +1,14 @@
+{
+  "name": "leafletjs-dnd-map",
+  "version": "1.0.0",
+  "description": "Interactive World Map for Homebrew Dungeons and Dragons Campaign",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Brooks",
+  "license": "ISC",
+  "dependencies": {
+    "leaflet": "^1.9.4"
+  }
+}
