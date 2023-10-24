@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Dungeons and Dragon</h1>
+<h1 align="center" id="title">Dungeons and Dragon Interactive World Map</h1>
 Turning my Dungeons and Dragons Campaign map into a fully fledged Google Map-esque webpage. Using the wonderful Leaflet.js!
 
 If you want to create a similar map for your own campaign map, I have written up the full process on my website: https://techtrail.net/creating-an-interactive-map-with-leaflet-js/
